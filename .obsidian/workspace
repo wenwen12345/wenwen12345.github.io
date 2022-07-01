@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "5db7e3591135106a",
+    "type": "split",
+    "children": [
+      {
+        "id": "72d649894879d1d8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b9fc6de601c90932",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e4b19d5dbc3961c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1723a888864048a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a911a79a11857122",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#include",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2304c43b942891cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "197aff519b598600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4769adcb8625e534",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2e31330ce56f4b58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "72d649894879d1d8",
+  "lastOpenFiles": [
+    "算法/二分查找算法.md",
+    "算法/前序遍历.md",
+    "未命名看板.md",
+    "算法/Untitled.md",
+    "20220501课堂练习.md",
+    "2_20220508课堂笔记.md",
+    "simpread-stdasync - cppreference.com.md",
+    "future.md",
+    "async.md",
+    "算法/中序遍历.md"
+  ]
+}
